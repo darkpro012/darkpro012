@@ -1,16 +1,14 @@
 ## Hi there 👋
-
+<!DOCTYPE html>
 <!--
-**darkpro012/darkpro012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy Kevin, un desarrollador entusiasta con experiencia en Python, Java, JavaScript, C++, y PHP. Me apasiona crear aplicaciones web y de escritorio, con un enfoque en escribir código limpio y eficiente.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Habilidades:
+    * Lenguajes: Python, Java, JavaScript, C++, PHP.
+    * Bases de datos: MySQL, SQLite.
+    * Herramientas: Git, GitHub, Modelio.
+- Proyectos destacados:
+    * Sistema de gestión de cementerio en PHP.
+    * Aplicación de cajero automático en Python para la compra de libros.
+    * Estoy siempre buscando nuevas oportunidades para aprender y colaborar. 
 -->
